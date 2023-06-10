@@ -1,7 +1,3 @@
 This project started as "White House 2":http://whitehouse2.org/, where we imagined how the White House could work if it was run completely democratically by thousands of people over the internet. It's coded with Ruby on Rails 2.3.2, and released under the MIT License, the same as Ruby on Rails. 
 
-This code is no longer maintained, but there is an excellent fork called "Open Active Democracy":http://github.com/rbjarnason/open-active-democracy from @rbjarnason
-
-Jim Gilliam
-"http://www.jimgilliam.com/":http://www.jimgilliam.com/
-"http://twitter.com/jgilliam":http://twitter.com/jgilliam
+I am supporting the update of the code so that it will run in today's computing environments.
